@@ -1,3 +1,4 @@
+package laprak5;
 import java.util.Scanner;
 
 public class Main {
