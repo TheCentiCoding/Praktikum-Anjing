@@ -6,8 +6,7 @@ Program Penghitung Permutasi dan Kombinasi
 1. Permutasi
 2. Kombinasi
 3. Keluar
-Masukkan pilihan Anda : 
-1
+Masukkan pilihan Anda : 1
 Masukkan total objek n = 5
 Masukkan jumlah objek yang dipilih r = 2
         n!
@@ -18,8 +17,7 @@ Program Penghitung Permutasi dan Kombinasi
 1. Permutasi
 2. Kombinasi
 3. Keluar
-Masukkan pilihan Anda : 
-2
+Masukkan pilihan Anda : 2
 Masukkan total objek n = 5
 Masukkan jumlah objek yang dipilih r = 2
          n!
@@ -30,8 +28,7 @@ Program Penghitung Permutasi dan Kombinasi
 1. Permutasi
 2. Kombinasi
 3. Keluar
-Masukkan pilihan Anda : 
-3
+Masukkan pilihan Anda : 3
 Program dihentikan.
 ```
 ## 2. Bilangan Prima
