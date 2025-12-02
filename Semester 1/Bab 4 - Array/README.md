@@ -19,6 +19,7 @@ Buatlah program dengan pilihan menu yang terus berulang, dan menu akan berhenti 
 | Bisnis  | 100000  | 5%  | Ada  | Tidak Ada  |
 | Eksekutif  | 200000  | 7%  | Ada  | Tidak Ada  |
 | Pariwisata  | 300000  | 10%  | Ada  | Ada  |
+
 Pilihan menunya adalah:
 ```
 1. Melihat Daftar Kereta Api
