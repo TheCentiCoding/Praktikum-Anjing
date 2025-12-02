@@ -3,6 +3,9 @@ public class Praktikum2 {
     public static void main(String[] args) {
         int i;
         System.out.print("  ");
+        /*
+        Soal ini mempunyai output yang berbeda dari setiap orang. Saya berinisial 'C' sehingga saya mencetak huruf C.
+        */
         for (i=1;i<=3;i++) {
             System.out.print("C ");
         }
