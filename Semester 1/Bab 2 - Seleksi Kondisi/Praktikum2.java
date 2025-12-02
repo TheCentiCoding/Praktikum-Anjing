@@ -1,7 +1,7 @@
 package javaapplication5;
 import java.util.Scanner;
 
-public class praktikum2 {
+public class Praktikum2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.printf("%-18s %c ","Berat badan (kg)",':');
