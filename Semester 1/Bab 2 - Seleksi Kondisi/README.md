@@ -49,8 +49,9 @@ Susun program untuk masalah pengajian sebagai berikut:
 Masukan yang dibutuhkan oleh program adalah: jumlah jam kerja tiap minggu. Keluaran program adalah: total upah dari pegawai tertentu. Aturan yang diterapkan adalah:
 - Batas kerja maksimal adalah 60 jam / minggu, dengan upah Rp. 5000,- / jam. Kelebihan jam kerja dari batas maksimum akan dianggap sebagai lembur dengan upah Rp. 6000,- / jam.
 - Batas kerja minimal adalah 50 jam / minggu. Apabila pegawai mempunyai jam kerja di bawah batas kerja minimal ini, maka akan dikenakan denda sebesar Rp. 1000, - / jam.
-```
+
 Contoh tampilan:
+```
 Jam kerja  : 55
 Upah   = Rp. 275000
 Lembur = Rp. 0
