@@ -1,7 +1,7 @@
 # Carlo's Programming Practicum Archives
 Archives of my assignments.
 
-Mainly using Java.
+Mainly using Java, configured using Ant.
 
 For personal use and study material only.
 
