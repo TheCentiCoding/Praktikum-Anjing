@@ -8,7 +8,7 @@ upah Rp. 6000,- / jam. */
 /* Batas kerja minimal adalah 50 jam / minggu. Apabila pegawai mempunyai jam
 kerja di bawah batas kerja minimal ini, maka akan dikenakan denda sebesar Rp.
 1000, - /jam. */
-public class praktikum3 {
+public class Praktikum3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.printf("%-10s : ","Jam kerja");
