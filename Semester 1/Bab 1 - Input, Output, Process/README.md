@@ -1,4 +1,4 @@
-# Soal Praktikum
+# Bab 1 - Input, Output, Process
 ## 1. Operator Aritmatika Dasar
 Buatlah program dengan tampilan sebagai berikut.
 ```
