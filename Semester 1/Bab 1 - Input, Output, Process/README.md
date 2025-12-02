@@ -9,8 +9,8 @@ Hasil pengurangan  : 1
 Hasil perkalian    : 6
 Hasil pembagian    : 1.5
 ```
-## 2. 
-2. Buatlah program untuk menghitung pemakaian daya listrik dirumah tangga secara sederhana. Tampilan program sebagai berikut.
+## 2. Penghitung Pemakaian Listrik
+Buatlah program untuk menghitung pemakaian daya listrik dirumah tangga secara sederhana. Tampilan program sebagai berikut.
 ```
 Program penghitung pemakaian listrik sederhana
 Masukkan Nama  : Bpk Asisten
