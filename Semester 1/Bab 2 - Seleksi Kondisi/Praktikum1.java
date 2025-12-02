@@ -2,7 +2,7 @@
 package javaapplication5;
 import java.util.Scanner;
 
-public class praktikum1 {
+public class Praktikum1 {
 
     public static void main(String[] args) {
 
