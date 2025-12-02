@@ -1,6 +1,17 @@
-# Praktikum or smth idk
-Anything from my college life or idk lmao
-Using java
-Remove packages and replace it with yours
+# Carlo's Programming Practicum Archives
+Archives of my assignments.
 
-PS for my classmates: pls mind your own business here >:(
+Mainly using Java.
+
+For personal use and study material only.
+
+## Contents
+
+### 1st Semester
+- Chapter 1: Input, Output, and Process
+- Chapter 2: Condition Selections
+- Chapter 3: Loops
+- Chapter 4: Arrays
+- Chapter 5: Methods
+- Chapter 6: Object-Oriented Programming (Objects and Classes)
+- Chapter 7: Information Hiding (Encapsulation)
