@@ -8,6 +8,7 @@ For personal use and study material only.
 ## Contents
 
 ### 1st Semester
+#### Basic Programming
 - Chapter 1: Input, Output, and Process
 - Chapter 2: Condition Selections
 - Chapter 3: Loops
